@@ -1,0 +1,42 @@
+body {
+background-image: url(luv.jpg
+);
+}
+
+h1 {
+color: #93e;
+text-align: center;	
+}
+
+h2 {
+background-color: #edff12;
+color: black;
+text-align: center;
+}
+
+p {
+font-family: caladea;
+font-size: 18px;
+color: forestgreen;
+}
+
+blockquote {
+background-color: violet;
+color: black;
+text-align: center;
+}
+
+ul {
+font-family: caladea;
+font-size: 18px;
+color: forestgreen;
+}
+
+img{
+	border-radius: 50%;
+	width: 200px;
+	height: 200px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
